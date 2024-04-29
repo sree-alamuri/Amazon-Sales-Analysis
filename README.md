@@ -1,11 +1,11 @@
 <h1>Amazon-Sales-Analysis</h1>
 <h2>Objective:</h2>
-<p>Finding the sales trend-month-wise, year-wise and to find key metrics and factors and show meaningful relationships between the attributes. </p>
-Aims to provide insights to inform Amazon's strategy and operations.
+<p>Finding the sales trend-month-wise, year-wise and to find key metrics and factors and show meaningful relationships between the attributes.
+Aims to provide insights to inform Amazon's strategy and operations.</p>
 
 <h3>Tools Used:</h3>
-Data Cleaning: Excel</li>
-Data Visualization: Power BI</li>
+<li>Data Cleaning: Excel</li>
+<li></li>Data Visualization: Power BI</li>
 
 <H4>Analysis</H4>
 <ul>
