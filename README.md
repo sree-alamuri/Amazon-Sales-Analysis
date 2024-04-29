@@ -5,7 +5,7 @@ Aims to provide insights to inform Amazon's strategy and operations.</p>
 
 <h3>Tools Used:</h3>
 <li>Data Cleaning: Excel</li>
-<li></li>Data Visualization: Power BI</li>
+<li>Data Visualization: Power BI</li>
 
 <H4>Analysis</H4>
 <ul>
